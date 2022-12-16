@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Andyamg/Fav-playlist/issues"
   },
-  "homepage": "https://github.com/Andyamg/Fav-playlist#readme",
+  "homepage": "https://github.com/Andyamg/Fav-playlist#index",
   "devDependencies": {
     "gh-pages": "^4.0.0"
   }
